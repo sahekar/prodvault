@@ -90,7 +90,7 @@ Keys
 artificial
 satish
 
-It looks good for first docker container, follow the same steps from docker file creation till the testing.
+It looks good for first docker container ( Active ), follow the same for remaing docker container and see the status ( i.e standby )
 
 Enjoy !! 
 
