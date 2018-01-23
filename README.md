@@ -1,5 +1,6 @@
 # prodvault
 3 node vault docker container cluster & backend as consul.
+Using supervisor instead of dumb init process !
 
 --- Before we start, please make sure consul cluster is ready ---
 
