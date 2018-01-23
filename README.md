@@ -95,7 +95,6 @@ It looks good for first docker container ( Active ), follow the same for remaing
 
 Enjoy !! 
 
-"It's hard to beat a person who never ever gives up !"
             
 
  
